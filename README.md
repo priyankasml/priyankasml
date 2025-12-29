@@ -50,17 +50,10 @@
 
 ## 🔥 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/dolly2300032709?theme=dark&font=Sans&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/dolly2300032709?theme=dark&font=Sans&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankasml&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankasml&layout=compact&theme=tokyonight" height="150" />
-</p>
-
 ---
 
 ## ✨ Quote
