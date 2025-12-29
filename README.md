@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Salaka Maha Lakshmi Priyanka</h2>
+<h1 align="center">👋 Hi, I'm Salaka Maha Lakshmi Priyanka</h1>
 
 🎓 B.Tech in **Computer Science and Engineering** – KL University (CGPA: **9.77**)  
 🤖 Specialization in **AI for Visual Intelligence**  
