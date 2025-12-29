@@ -40,6 +40,18 @@
   🔗 https://github.com/priyankasml/FULLSTACK-PROJECT-DEVOPS
 
 ---
+## 🎖️ Certifications
+
+| Certification | Provider |
+|--------------|-----------|
+| 🟢 Aviatrix Certified Engineer – Multicloud Network Associate | Aviatrix |
+| 🟦 Microsoft Azure AI Essentials | Microsoft / LinkedIn |
+| ☁️ AWS Cloud Practitioner (In Progress) | Amazon Web Services |
+| 🖥️ AZ-900 Azure Fundamentals (In Progress) | Microsoft |
+| 🖱️ Python Foundation Certification | Institution / Training |
+| 🌐 Web Development Certificate | Institution / Online Program |
+| 🤖 AI for Visual Intelligence (Specialization) | KL University |
+---
 
 ## 🔹 Connect With Me
 🌐 **LinkedIn:** https://linkedin.com/in/mahalakshmi-priyanka-salaka-97a249328  
