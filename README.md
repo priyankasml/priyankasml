@@ -8,12 +8,12 @@
 ---
 
 ## 🔹 About Me
-- 🌱 Building a strong skill stack in **AI + DevOps + Cloud**
-- 🚀 Hands-on with **CI/CD pipelines,  automation workflows & deployments**
-- 🤖 Exploring **Computer Vision, NLP & Real-world AI applications**
-- ☁️ Cloud learning on **AWS, Azure & Multicloud Networking (Aviatrix)**
-- 🛠️ Working with **Jenkins, Docker, GitHub Actions & Full-Stack Basics**
-- 🎯 Goal: Become an **AI/DevOps Engineer** and build **cloud-based intelligent systems**
+-  Building a strong skill stack in **AI + DevOps + Cloud**
+-  Hands-on with **CI/CD pipelines,  automation workflows & deployments**
+-  Exploring **Computer Vision, NLP & Real-world AI applications**
+-  Cloud learning on **AWS, Azure & Multicloud Networking (Aviatrix)**
+-  Working with **Jenkins, Docker, GitHub Actions & Full-Stack Basics**
+-  Goal: Become an **AI/DevOps Engineer** and build **cloud-based intelligent systems**
 
 ---
 
