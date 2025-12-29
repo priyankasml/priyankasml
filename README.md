@@ -40,17 +40,22 @@
   🔗 https://github.com/priyankasml/FULLSTACK-PROJECT-DEVOPS
 
 ---
-## 🎖️ Certifications
-
+##
 | Certification | Provider |
 |--------------|-----------|
+| 🟢 Oracle Cloud Infrastructure | Oracle |
+| ☁️ AWS Certified Cloud Practitioner | Amazon Web Services |
+| 🖥️ Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft |
+| 🟦 Microsoft Azure AI Essentials Professional Certificate | Microsoft / LinkedIn |
+| 🔹 Microsoft Azure AI Essentials: Workloads and Machine Learning on Azure | LinkedIn |
 | 🟢 Aviatrix Certified Engineer – Multicloud Network Associate | Aviatrix |
-| 🟦 Microsoft Azure AI Essentials | Microsoft / LinkedIn |
-| ☁️ AWS Cloud Practitioner (In Progress) | Amazon Web Services |
-| 🖥️ AZ-900 Azure Fundamentals (In Progress) | Microsoft |
-| 🖱️ Python Foundation Certification | Institution / Training |
-| 🌐 Web Development Certificate | Institution / Online Program |
-| 🤖 AI for Visual Intelligence (Specialization) | KL University |
+| 🖥️ Operating Systems (NPTEL) | NPTEL |
+| 🖱️ Programming in Java (NPTEL) | NPTEL |
+| 🤖 Salesforce Certified AI Associate | Salesforce |
+| 🌐 AICTE Approved Cisco Networking Essentials | Cisco Networking Academy |
+| ☁️ AWS Cloud Practitioner (Udemy) | Udemy |
+| 🏅 Linguaskill Test Report | Cambridge / Linguaskill |
+
 ---
 
 ## 🔹 Connect With Me
