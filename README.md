@@ -40,7 +40,7 @@
   🔗 https://github.com/priyankasml/FULLSTACK-PROJECT-DEVOPS
 
 ---
-##
+ ## 🔹Certifications 
 | Certification | Provider |
 |--------------|-----------|
 | 🟢 Oracle Cloud Infrastructure | Oracle |
