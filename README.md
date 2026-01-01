@@ -64,6 +64,12 @@
 🏆 **LeetCode:** https://leetcode.com/u/dolly2300032709/  
 
 ---
+🔹 Current Focus
+
+Exploring cloud-native architectures, DevOps automation, and scalable AI pipelines
+
+Building hands-on experience in data engineering, machine learning, and real-world AI applications
+----
 
 ## 🔥 LeetCode Stats
 <p align="center">
