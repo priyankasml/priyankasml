@@ -66,7 +66,7 @@
 ---
 🔹 Current Focus
 
-Exploring cloud-native architectures, DevOps automation, and scalable AI pipelines
+**Exploring cloud-native architectures, DevOps automation, and scalable AI pipelines**
 
 Building hands-on experience in data engineering, machine learning, and real-world AI applications
 ----
