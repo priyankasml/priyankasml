@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Salaka Maha Lakshmi Priyanka</h1>
 
-🎓 B.Tech in **Computer Science and Engineering** – KL University (CGPA: **9.77**)  
+🎓 B.Tech in **Computer Science and Engineering** – KL University (CGPA: **9.8**)  
 🤖 Specialization in **AI for Visual Intelligence**  
 ☁️ Passionate about **AI, DevOps, and Cloud Technologies**  
 📍 Based in **Guntur, Andhra Pradesh, India**  
