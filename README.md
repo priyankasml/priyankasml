@@ -49,13 +49,7 @@
 
 ---
 
-# 🤖 AI / ML Tools
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch"/>
-
-</p>
 
 ---
 
@@ -150,13 +144,6 @@ https://github.com/priyankasml/UNDERWATER-OBJECT-DETECTION
 
 ---
 
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=priyankasml&label=Profile%20Views&color=blue&style=flat"/>
-
-</p>
 
 ---
 
