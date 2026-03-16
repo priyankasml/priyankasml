@@ -1,22 +1,22 @@
-<!-- HEADER -->
+<!-- HEADER ANIMATION -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Salaka%20Maha%20Lakshmi%20Priyanka&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Salaka%20Maha%20Lakshmi%20Priyanka&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">Hi 👋 I'm Salaka Maha Lakshmi Priyanka</h1>
 
 <h3 align="center">Cloud • DevOps • Software Engineering Enthusiast ☁️🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Future+Cloud+Engineer;DevOps+Automation+Learner;Building+Scalable+Applications+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Future+Cloud+%26+DevOps+Engineer;Building+Scalable+Applications;Learning+Every+Day+🚀">
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-<img align="right" height="230" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" height="240" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 **B.Tech – Computer Science and Engineering**
+🎓 **B.Tech – Computer Science & Engineering**
 🏫 KL University | **CGPA: 9.8**
 
 ☁️ Passionate about
@@ -28,7 +28,7 @@
 🚀 Currently exploring
 
 • CI/CD pipelines
-• Containerization and deployments
+• Containerization & deployments
 • Scalable cloud systems
 
 📍 **Guntur, Andhra Pradesh, India**
@@ -104,6 +104,16 @@ https://github.com/priyankasml/UNDERWATER-OBJECT-DETECTION
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=priyankasml&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
 # 🔥 LeetCode Stats
 
 <p align="center">
@@ -134,7 +144,13 @@ https://github.com/priyankasml/UNDERWATER-OBJECT-DETECTION
 
 ---
 
+# 👀 Profile Visitors
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=priyankasml&label=Profile%20Views&color=blue&style=flat"/>
+
+</p>
 
 ---
 
@@ -144,4 +160,4 @@ https://github.com/priyankasml/UNDERWATER-OBJECT-DETECTION
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
