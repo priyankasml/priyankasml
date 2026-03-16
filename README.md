@@ -1,48 +1,59 @@
-<!-- HEADER ANIMATION -->
+<!-- Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Salaka%20Maha%20Lakshmi%20Priyanka&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0072FF&height=200&section=header&text=Salaka%20Maha%20Lakshmi%20Priyanka&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">Hi 👋 I'm Salaka Maha Lakshmi Priyanka</h1>
 
-<h3 align="center">Cloud • DevOps • Software Engineering Enthusiast ☁️🚀</h3>
+<h3 align="center">AI • DevOps • Cloud Engineer in Progress ☁️🤖</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Future+Cloud+%26+DevOps+Engineer;Building+Scalable+Applications;Learning+Every+Day+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+for+Visual+Intelligence+Student;Future+AI+%26+DevOps+Engineer;Cloud+%7C+Automation+%7C+Machine+Learning;Always+Learning+New+Technologies+🚀">
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-<img align="right" height="240" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" height="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 **B.Tech – Computer Science & Engineering**
-🏫 KL University | **CGPA: 9.8**
+🎓 **B.Tech – Computer Science and Engineering**
+🏫 **KL University** | CGPA **9.8**
+
+🤖 Specialization in **AI for Visual Intelligence**
 
 ☁️ Passionate about
-
+• Artificial Intelligence
+• DevOps Engineering
 • Cloud Computing
-• DevOps Automation
-• Software Development
 
-🚀 Currently exploring
+💡 Currently learning
 
-• CI/CD pipelines
-• Containerization & deployments
-• Scalable cloud systems
+• Cloud architectures
+• DevOps automation
+• AI pipelines
+
+🚀 Goal
+**Become an AI / DevOps Engineer building scalable cloud AI systems**
 
 📍 **Guntur, Andhra Pradesh, India**
 
-🎯 **Goal:**
-Become a **Cloud & DevOps Engineer building scalable systems**
-
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,docker,jenkins,aws,azure,git,github,vscode"/>
+
+</p>
+
+---
+
+# 🤖 AI / ML Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch"/>
 
 </p>
 
@@ -53,16 +64,16 @@ Become a **Cloud & DevOps Engineer building scalable systems**
 🔹 **Jenkins Fullstack Bank API (CI/CD + Deployment)**
 https://github.com/priyankasml/JENKINS-FULLSTACK-BANKAPI
 
+🔹 **Sentiment Analyzer (Machine Learning + NLP)**
+https://github.com/priyankasml/sentiment-analyzer
+
 🔹 **Hotel Management Fullstack Web Application**
 https://github.com/priyankasml/HOTELMANAGEMENT-FULLSTACK
 
-🔹 **DevOps Fullstack Practice Project**
+🔹 **Fullstack DevOps Practice Project**
 https://github.com/priyankasml/FULLSTACK-PROJECT-DEVOPS
 
-🔹 **Sentiment Analyzer Project**
-https://github.com/priyankasml/sentiment-analyzer
-
-🔹 **Underwater Object Detection**
+🔹 **Underwater Object Detection (Computer Vision)**
 https://github.com/priyankasml/UNDERWATER-OBJECT-DETECTION
 
 ---
@@ -72,13 +83,15 @@ https://github.com/priyankasml/UNDERWATER-OBJECT-DETECTION
 ✔ Oracle Cloud Infrastructure – Oracle
 ✔ AWS Certified Cloud Practitioner – AWS
 ✔ Microsoft Azure Fundamentals (AZ-900) – Microsoft
-✔ Microsoft Azure AI Essentials – LinkedIn
-✔ Aviatrix Multicloud Network Associate
+✔ Microsoft Azure AI Essentials Professional Certificate – Microsoft / LinkedIn
+✔ Microsoft Azure AI Essentials: Workloads & Machine Learning – LinkedIn
+✔ Aviatrix Certified Engineer – Multicloud Network Associate
+✔ Operating Systems – NPTEL
+✔ Programming in Java – NPTEL
 ✔ Salesforce Certified AI Associate
-✔ Cisco Networking Essentials
-✔ NPTEL Operating Systems
-✔ NPTEL Programming in Java
-✔ Linguaskill Certification
+✔ Cisco Networking Essentials – Cisco Networking Academy
+✔ AWS Cloud Practitioner – Udemy
+✔ Linguaskill Certification – Cambridge
 
 ---
 
@@ -94,7 +107,7 @@ https://github.com/priyankasml/UNDERWATER-OBJECT-DETECTION
 
 ---
 
-# 🔥 GitHub Activity Graph
+# 🔥 GitHub Contribution Graph
 
 <p align="center">
 
@@ -104,13 +117,6 @@ https://github.com/priyankasml/UNDERWATER-OBJECT-DETECTION
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=priyankasml&theme=tokyonight&row=1&column=7"/>
-
-</p>
 
 ---
 
@@ -160,4 +166,4 @@ https://github.com/priyankasml/UNDERWATER-OBJECT-DETECTION
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00F7FF&height=120&section=footer"/>
