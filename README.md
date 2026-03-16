@@ -7,14 +7,14 @@
 <h3 align="center">Cloud • DevOps • Software Engineering Enthusiast ☁️🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Future+Cloud+Engineer;DevOps+Automation+Learner;Coding+%2B+Music+Lover+🎧;Building+Scalable+Applications+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Future+Cloud+Engineer;DevOps+Automation+Learner;Building+Scalable+Applications+🚀">
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-<img align="right" height="240" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
+<img align="right" height="240" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 🎓 **B.Tech – Computer Science and Engineering**
 🏫 KL University | **CGPA: 9.8**
@@ -41,7 +41,7 @@ Become a **Cloud & DevOps Engineer building scalable systems**
 # 🎯 Interests
 
 💻 Coding
-🎵 Listening to music while coding
+🎵 Listening to Songs while coding
 📚 Learning new technologies
 
 ---
@@ -77,20 +77,16 @@ https://github.com/priyankasml/UNDERWATER-OBJECT-DETECTION
 
 # 🏆 Certifications
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Oracle%20Cloud-Infrastructure-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure"/>
-<img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Essentials-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Aviatrix-Multicloud%20Network-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Salesforce-AI%20Associate-00A1E0?style=for-the-badge&logo=salesforce"/>
-<img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-blue?style=for-the-badge&logo=cisco"/>
-<img src="https://img.shields.io/badge/NPTEL-Operating%20Systems-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NPTEL-Java%20Programming-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cambridge-Linguaskill-purple?style=for-the-badge"/>
-
-</p>
+✔ Oracle Cloud Infrastructure – Oracle
+✔ AWS Certified Cloud Practitioner – AWS
+✔ Microsoft Azure Fundamentals (AZ-900) – Microsoft
+✔ Microsoft Azure AI Essentials – LinkedIn
+✔ Aviatrix Multicloud Network Associate
+✔ Salesforce Certified AI Associate
+✔ Cisco Networking Essentials
+✔ NPTEL Operating Systems
+✔ NPTEL Programming in Java
+✔ Linguaskill Certification
 
 ---
 
