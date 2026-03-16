@@ -1,20 +1,20 @@
 <!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Salaka%20Maha%20Lakshmi%20Priyanka&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:65d6ce&height=200&section=header&text=Salaka%20Maha%20Lakshmi%20Priyanka&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">Hi 👋 I'm Salaka Maha Lakshmi Priyanka</h1>
 
 <h3 align="center">Cloud • DevOps • Software Engineering Enthusiast ☁️🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Future+Cloud+Engineer;DevOps+Automation+Learner;Building+Scalable+Applications+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Future+Cloud+Engineer;DevOps+Automation+Learner;Coding+%2B+Music+Lover+🎧;Building+Scalable+Applications+🚀">
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-<img align="right" height="230" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" height="240" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 🎓 **B.Tech – Computer Science and Engineering**
 🏫 KL University | **CGPA: 9.8**
@@ -33,8 +33,22 @@
 
 📍 **Guntur, Andhra Pradesh, India**
 
-🎯 **Goal:**
-Become a **Cloud & DevOps Engineer building scalable systems**
+---
+
+# 🎧 Interests
+
+💻 Coding while listening to music
+🎵 Favorite combo: **Songs + Programming**
+
+---
+
+# 🎵 Spotify – Currently Playing
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31y7mkt2q2bfsrgl7r6v7q5rty7y&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true"/>
+
+</p>
 
 ---
 
@@ -104,6 +118,16 @@ https://github.com/priyankasml/UNDERWATER-OBJECT-DETECTION
 
 ---
 
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/priyankasml/priyankasml/output/snake.svg" alt="Snake animation"/>
+
+</p>
+
+---
+
 # 🔥 LeetCode Stats
 
 <p align="center">
@@ -134,20 +158,10 @@ https://github.com/priyankasml/UNDERWATER-OBJECT-DETECTION
 
 ---
 
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=priyankasml&label=Profile%20Views&color=blue&style=flat"/>
-
-</p>
-
----
-
 # ✨ Quote
 
 > **Growth begins where comfort ends — learning, building, and evolving every day 🌱**
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:65d6ce,100:ff7eb3&height=120&section=footer"/>
