@@ -1,106 +1,97 @@
 <!-- Animated Header -->
-<h1 align="center">
-  Hi 👋, I'm Salaka Maha Lakshmi Priyanka
-</h1>
 
-<h3 align="center">
-AI • DevOps • Cloud Engineer in Progress ☁️🤖
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0072FF&height=200&section=header&text=Salaka%20Maha%20Lakshmi%20Priyanka&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+<h1 align="center">Hi 👋 I'm Salaka Maha Lakshmi Priyanka</h1>
+
+<h3 align="center">AI • DevOps • Cloud Engineer in Progress ☁️🤖</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+for+Visual+Intelligence+Student;DevOps+%7C+Cloud+Enthusiast;Building+AI+Powered+Systems;Learning+Everyday+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+for+Visual+Intelligence+Student;Future+AI+%26+DevOps+Engineer;Cloud+%7C+Automation+%7C+Machine+Learning;Always+Learning+New+Technologies+🚀">
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 **B.Tech – Computer Science & Engineering**  
-🏫 KL University | **CGPA: 9.8**
+<img align="right" height="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🎓 **B.Tech – Computer Science and Engineering**
+🏫 **KL University** | CGPA **9.8**
 
 🤖 Specialization in **AI for Visual Intelligence**
 
-☁️ Passionate about  
-- Artificial Intelligence  
-- DevOps Engineering  
-- Cloud Computing  
+☁️ Passionate about
+• Artificial Intelligence
+• DevOps Engineering
+• Cloud Computing
 
-🚀 Goal: **AI / DevOps Engineer building scalable cloud AI systems**
+💡 Currently learning
 
-📍 Guntur, Andhra Pradesh, India
+• Cloud architectures
+• DevOps automation
+• AI pipelines
 
----
+🚀 Goal
+**Become an AI / DevOps Engineer building scalable cloud AI systems**
 
-# 🛠️ Tech Stack
-
-### 👨‍💻 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+📍 **Guntur, Andhra Pradesh, India**
 
 ---
 
-### 🤖 AI / Machine Learning
+# 🚀 Tech Stack
 
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-![Data Processing](https://img.shields.io/badge/Data%20Processing-green?style=for-the-badge)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,docker,jenkins,aws,azure,git,github,vscode"/>
 
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions)
+</p>
 
 ---
 
-### 🌐 Web Development
+# 🤖 AI / ML Tools
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch"/>
 
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+</p>
 
 ---
 
 # 🚀 Projects
 
-🔹 **Jenkins Fullstack Bank API (CI/CD + Deployment)**  
-https://github.com/priyankasml/JENKINS-FULLSTACK-BANKAPI  
+🔹 **Jenkins Fullstack Bank API (CI/CD + Deployment)**
+https://github.com/priyankasml/JENKINS-FULLSTACK-BANKAPI
 
-🔹 **Sentiment Analyzer (ML + NLP)**  
-https://github.com/priyankasml/sentiment-analyzer  
+🔹 **Sentiment Analyzer (Machine Learning + NLP)**
+https://github.com/priyankasml/sentiment-analyzer
 
-🔹 **Hotel Management Fullstack Web App**  
-https://github.com/priyankasml/HOTELMANAGEMENT-FULLSTACK  
+🔹 **Hotel Management Fullstack Web Application**
+https://github.com/priyankasml/HOTELMANAGEMENT-FULLSTACK
 
-🔹 **Fullstack DevOps Practice Project**  
-https://github.com/priyankasml/FULLSTACK-PROJECT-DEVOPS  
+🔹 **Fullstack DevOps Practice Project**
+https://github.com/priyankasml/FULLSTACK-PROJECT-DEVOPS
+
+🔹 **Underwater Object Detection (Computer Vision)**
+https://github.com/priyankasml/UNDERWATER-OBJECT-DETECTION
 
 ---
 
 # 🏆 Certifications
 
-✔ Oracle Cloud Infrastructure  
-✔ AWS Certified Cloud Practitioner  
-✔ Microsoft Azure Fundamentals (AZ-900)  
-✔ Microsoft Azure AI Essentials Professional Certificate  
-✔ Aviatrix Certified Engineer – Multicloud Network Associate  
-✔ NPTEL Operating Systems  
-✔ NPTEL Programming in Java  
-✔ Salesforce Certified AI Associate  
-✔ Cisco Networking Essentials  
-✔ Linguaskill Certification
+✔ Oracle Cloud Infrastructure – Oracle
+✔ AWS Certified Cloud Practitioner – AWS
+✔ Microsoft Azure Fundamentals (AZ-900) – Microsoft
+✔ Microsoft Azure AI Essentials Professional Certificate – Microsoft / LinkedIn
+✔ Microsoft Azure AI Essentials: Workloads & Machine Learning – LinkedIn
+✔ Aviatrix Certified Engineer – Multicloud Network Associate
+✔ Operating Systems – NPTEL
+✔ Programming in Java – NPTEL
+✔ Salesforce Certified AI Associate
+✔ Cisco Networking Essentials – Cisco Networking Academy
+✔ AWS Cloud Practitioner – Udemy
+✔ Linguaskill Certification – Cambridge
 
 ---
 
@@ -108,9 +99,9 @@ https://github.com/priyankasml/FULLSTACK-PROJECT-DEVOPS
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyankasml&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyankasml&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankasml&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankasml&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -119,7 +110,29 @@ https://github.com/priyankasml/FULLSTACK-PROJECT-DEVOPS
 # 🔥 GitHub Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyankasml&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=priyankasml&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🔥 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/dolly2300032709?theme=dark&font=Baloo&ext=contest"/>
+
 </p>
 
 ---
@@ -129,29 +142,35 @@ https://github.com/priyankasml/FULLSTACK-PROJECT-DEVOPS
 <p align="center">
 
 <a href="https://linkedin.com/in/mahalakshmi-priyanka-salaka-97a249328">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/priyankasml">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://leetcode.com/u/dolly2300032709/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </p>
 
 ---
 
-# 👀 Visitors
+# 👀 Profile Visitors
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=priyankasml&label=Profile%20Views&color=blue&style=flat"/>
+
 </p>
 
 ---
 
 # ✨ Quote
 
-> **"Growth begins where comfort ends — learning, building, and evolving every day." 🌱**
+> **Growth begins where comfort ends — learning, building, and evolving every day 🌱**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00F7FF&height=120&section=footer"/>
