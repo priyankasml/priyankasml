@@ -34,6 +34,8 @@
 ---
 
 ## 👩‍💻 About Me
+
+<img align="right" width="380" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding gif"/>
 ```yaml
 ┌─────────────────────────────────────────────────┐
 │  👩‍💼  Mahalakshmi Priyanka Salaka               │
@@ -46,10 +48,13 @@
 └─────────────────────────────────────────────────┘
 ```
 
-I am a passionate **Full-Stack Developer** and **Cloud/AI Engineer** who thrives at the intersection of cloud infrastructure and intelligent systems. I architect and ship production-grade applications combining **scalable cloud backends**, **DevOps automation**, and **deep learning models** — from idea to deployment.
+- 🔭 Currently working on **AI Vision Projects & Cloud Deployments**
+- 🌱 Currently learning **Advanced MLOps & Multi-Cloud Architecture**
+- 👯 Looking to collaborate on **Open Source AI & Cloud Projects**
+- 🏆 Achieved **AWS + Azure + Oracle Cloud** certifications
+- ⚡ Fun fact: **I debug code faster with coffee ☕**
 
-Currently serving as **President of the Megha Cloud Computing Club** at KL University, where I lead technical workshops, cloud hackathons, and AI research initiatives focused on **Computer Vision** and **Visual Intelligence**.
-
+<br clear="right"/>
 ---
 
 ## 🔬 Core Competencies
