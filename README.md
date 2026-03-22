@@ -126,21 +126,7 @@ Status   : Open to Opportunities 🚀
 
 ---
 
-## 🏛️ Leadership
-
-<div align="center">
-```
-╔══════════════════════════════════════════════════╗
-║   🏛️  President — Megha Cloud Computing Club     ║
-║        KL University, Andhra Pradesh              ║
-║                                                   ║
-║  Leading cloud & AI initiatives, organizing       ║
-║  workshops, hackathons and technical events       ║
-║  focused on cloud computing and AI research.      ║
-╚══════════════════════════════════════════════════╝
-```
-
-</div>
+>
 
 ---
 
