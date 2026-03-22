@@ -37,7 +37,7 @@
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
 
-**Mahalakshmi Priyanka Salaka** — Full-Stack Developer & Cloud/AI Engineer pursuing B.Tech CSE at KL University, Andhra Pradesh.
+**Mahalakshmi Priyanka Salaka** — Full-Stack Developer & Cloud/AI Engineer pursuing B.Tech CSE at KL University, Andhra Pradesh
 
 <br/>
 
