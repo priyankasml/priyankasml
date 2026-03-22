@@ -35,26 +35,29 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="380" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding gif"/>
-```yaml
-┌─────────────────────────────────────────────────┐
-│  👩‍💼  Mahalakshmi Priyanka Salaka               │
-│  🎓  B.Tech CSE — KL University                 │
-│  📍  Guntur, Andhra Pradesh, India              │
-│  🏛️  President, Megha Cloud Computing Club      │
-│  🎯  Cloud · DevOps · AI · Computer Vision      │
-│  💼  Open to Full-Time / Internship Roles       │
-│  ✉️  2300032709cseh1@gmail.com                  │
-└─────────────────────────────────────────────────┘
-```
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
 
-- 🔭 Currently working on **AI Vision Projects & Cloud Deployments**
-- 🌱 Currently learning **Advanced MLOps & Multi-Cloud Architecture**
-- 👯 Looking to collaborate on **Open Source AI & Cloud Projects**
-- 🏆 Achieved **AWS + Azure + Oracle Cloud** certifications
-- ⚡ Fun fact: **I debug code faster with coffee ☕**
+**Mahalakshmi Priyanka Salaka** — Full-Stack Developer & Cloud/AI Engineer pursuing B.Tech CSE at KL University, Andhra Pradesh.
+
+<br/>
+
+🎓 &nbsp; **B.Tech CSE** — KL University
+📍 &nbsp; **Guntur**, Andhra Pradesh, India
+🏛️ &nbsp; **President** — Megha Cloud Computing Club
+🎯 &nbsp; **Focus** — Cloud · DevOps · AI · Computer Vision
+💼 &nbsp; **Status** — Open to Full-Time / Internship Roles
+✉️ &nbsp; **Email** — 2300032709cseh1@gmail.com
+
+<br/>
+
+- 🔭 &nbsp; Currently working on **AI Vision Projects & Cloud Deployments**
+- 🌱 &nbsp; Currently learning **Advanced MLOps & Multi-Cloud Architecture**
+- 👯 &nbsp; Looking to collaborate on **Open Source AI & Cloud Projects**
+- 🏆 &nbsp; Achieved **AWS + Azure + Oracle Cloud** certifications
+- ⚡ &nbsp; Fun fact: **I debug code faster with coffee ☕**
 
 <br clear="right"/>
+
 ---
 
 ## 🔬 Core Competencies
@@ -320,10 +323,6 @@ Complete DevOps platform with Kubernetes auto-scaling, security scanning, contai
 <img src="https://leetcard.jacoblin.cool/dolly2300032709?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=20&width=500" alt="LeetCode Contest"/>
 
 </div>
-
----
-
-
 
 ---
 
